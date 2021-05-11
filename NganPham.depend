@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1617252047 source:c:\users\admin\desktop\nganpham\game.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+
+1616427834 c:\users\admin\desktop\nganpham\game.h
+	<iostream>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<windows.h>
+
+1617708246 source:c:\users\admin\desktop\nganpham\main.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<windows.h>
+	<string>
+	<SDL_ttf.h>
+	<time.h>
+
+1617252047 source:c:\users\admin\desktop\nganpham - copy (2)\game.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+
+1616427834 c:\users\admin\desktop\nganpham - copy (2)\game.h
+	<iostream>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<windows.h>
+
+1617847858 source:c:\users\admin\desktop\nganpham - copy (2)\main.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<windows.h>
+	<string>
+	<SDL_ttf.h>
+	<time.h>
+	"file.h"
+
+1617818653 source:c:\users\admin\desktop\nganpham - copy (2)\file.cpp
+	"File.h"
+
+1617819231 c:\users\admin\desktop\nganpham - copy (2)\file.h
+	<iostream>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<windows.h>
+	"Game.h"
+	<SDL_ttf.h>
+
+1619628502 source:c:\users\admin\desktop\nganpham - copy (2)\nganpham - copy (2)\file.cpp
+	"File.h"
+
+1619596083 c:\users\admin\desktop\nganpham - copy (2)\nganpham - copy (2)\file.h
+	<iostream>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<windows.h>
+	"Game.h"
+	<SDL_ttf.h>
+
+1619533328 c:\users\admin\desktop\nganpham - copy (2)\nganpham - copy (2)\game.h
+	<iostream>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+	<windows.h>
+
+1617252046 source:c:\users\admin\desktop\nganpham - copy (2)\nganpham - copy (2)\game.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<string>
+	<SDL_image.h>
+
+1620272796 source:c:\users\admin\desktop\nganpham - copy (2)\nganpham - copy (2)\main.cpp
+	"Game.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<windows.h>
+	<string>
+	<SDL_ttf.h>
+	<time.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<dos.h>
+	"file.h"
+
+1619534770 c:\users\admin\desktop\nganpham - copy (2)\nganpham - copy (2)\move.h
+	"Game.h"
+	<iostream>
+	<random>
+	<ctime>
+	<vector>
+	<cmath>
+	<string>
+
